@@ -9,7 +9,7 @@ Workflow for mapping TCF from the synergy of Sentinel-3, Sentinel-5P and ERA-5 t
 
 <ol style='list-style-type:disc'> 
   <li> Please, click the link below to get access to the Google Colab repo (a GEE account is required): 
-    https://colab.research.google.com/drive/1ssVOAJmRuz1P44rQmABOMWuxOFboCIQZ?usp=sharing or download the source code available in this site (TCF_mapping / main). </li> 
+    https://colab.research.google.com/drive/1kHm8wb9d_Luc8SnDO9-xnGj233S32DTV?usp=sharing or download the source code available in this site (TCF_mapping / main). </li> 
   
   </br>
     
@@ -29,11 +29,11 @@ Workflow for mapping TCF from the synergy of Sentinel-3, Sentinel-5P and ERA-5 t
 
   <li> Calculate_Green function is the core of the GPR algorithm implemented in GEE </li>
 
-  <\br>
+  </br>
 
   <li> The map_loop function iterates over the defined temporal windows  </li>
 
-  <\br>
+  </br>
   
   <p style="text-align:center;"> <img src="https://github.com/psreyes/TCF_mapping/blob/main/GPP_globe_figures_paper.png"></p> 
 
