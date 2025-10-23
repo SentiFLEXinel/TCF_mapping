@@ -19,7 +19,7 @@ import numpy as np
 from PIL import Image
 import netCDF4
 from netCDF4 import Dataset
-from Models import model_GPP
+from Models import model_GPP as model
 
 ee.Initialize()
 ee.Authenticate()
